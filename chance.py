@@ -1,0 +1,14 @@
+deceive = {'name':'Daedric Quest','desc':'Boethian deceived you!', 'effect':'Jail, do not pass go, do not collect $200'}
+azura = {'name':'Daedric Quest','desc':'Azura blesses you with good fortune', 'effect':'You get $500'}
+clavicus = {'name':'Daedric Quest','desc':'Clavicus vile keeps his pact with you', 'effect':'advance to go'}
+hircine = {'name':'Daedric Quest','desc':'Hircine sets the hunt upon you', 'effect':'Pay each player $500'}
+mehrunes = {'name':'Daedric Quest','desc':'Mehrunes dagon floods the lands', 'effect':'Pay $250/house and hotel'}
+sanguine = {'name':'Daedric Quest','desc':'The feast of sanguine gets out of hand', 'effect':'Pay $1500'}
+sheogorath = {'name':'Daedric Quest','desc':'Sheogorath hits you with the wabbajack', 'effect':'Roll again'}
+namira = {'name':'Daedric Quest','desc':'Stumble across the cult of namira', 'effect':'Miss your next turn or pay $1000'}
+hircine_bestows = {'name':'Daedric Quest','desc':'Hircine bestows his spirit upon you', 'effect':'Advance to the next stables (railroad)'}
+wabbajack = {'name':'Daedric Quest','desc':'Sheogorath hits you with the wabbajack', 'effect':'Advance 5 spaces'}
+flame_attroaches = {'name':'Daedric Quest','desc':'Flame attroachs run wild and damage your properties', 'effect':'Pay $150/house and $500/hotel'}
+piece_swap = {'name':'Daedric Quest','desc':'Sheogorath hits you with the wabbajack', 'effect':'Swap pieces with another player'}
+meridia = {'name':'Daedric Quest','desc':'Meridia sends you to vanquish the undead', 'effect':'Move to bleak falls barrow'}
+skeleton_key = {'name':'Daedric Quest','desc':'Use to get out of jail free', 'effect':'Get out of jail free card (Do not discard)'}
