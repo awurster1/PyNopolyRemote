@@ -1,0 +1,2 @@
+# PyNopolyRemote
+PyNopoly Remote repository
